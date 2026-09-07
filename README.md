@@ -7,13 +7,16 @@ EC11 Rotary encoder
 
 CAD Model:
 Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, one for the PCB. 
-<img src="https://github.com/hackclub/hackpad/raw/main/hackpads/orpheuspad/assets/cad.png" alt="Schematic"/>![Uploading image.png…]()
+<img src="https://github.com/hackclub/hackpad/raw/main/hackpads/orpheuspad/assets/cad.png" alt="Schematic"/><img width="1810" height="1308" alt="image" src="https://github.com/user-attachments/assets/bfb69160-af19-4ec5-86d6-8bba615ed8cd" />
 
 
 It has 3 separate printed pieces. The angle, the base where the PCB sits, and the top cover. 
 
 PCB
 Here's my PCB! It was made in KiCad. 
+<img src="https://github.com/hackclub/hackpad/raw/main/hackpads/orpheuspad/assets/schematic.png" alt="Schematic"/><img src="https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad/assets/pcb.png?raw=true" alt="pcb.png"/><img width="1834" height="1172" alt="image" src="https://github.com/user-attachments/assets/73841ad9-5874-4b00-a6a3-f49a55d33111" />
+![Uploading image.png…]()
+
 
 Schematic Schematic
 
