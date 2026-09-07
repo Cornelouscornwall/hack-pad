@@ -7,8 +7,7 @@ EC11 Rotary encoder
 
 CAD Model:
 Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, one for the PCB. 
-<img src="https://github.com/hackclub/hackpad/raw/main/hackpads/orpheuspad/assets/cad.png" alt="Schematic"/><img width="1810" height="1308" alt="image" src="https://github.com/user-attachments/assets/bfb69160-af19-4ec5-86d6-8bba615ed8cd" />
-
+<img src="https://github.com/hackclub/hackpad/raw/main/hackpads/orpheuspad/assets/cad.png" alt="Schematic"/>
 
 It has 3 separate printed pieces. The angle, the base where the PCB sits, and the top cover. 
 
